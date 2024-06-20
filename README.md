@@ -40,3 +40,4 @@ To be completed later..... So please be patient.<br>
 
 <br>
 ## Getting Started
+model link: https://drive.google.com/file/d/1JaNZHf2BzFOJ-I1cL8DcDxyYo5pVNMXr/view?usp=sharing
