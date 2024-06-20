@@ -17,9 +17,26 @@ A pre-trained Large Language Model called TinyLlama was used as the base model f
 </div>
 <br>
 For that the path we journeyed are:
-* Created a dataset that contains over 350 questions and answers that relate to mental health.
-* Loadeed the base model and fine tuned it using the above mentioned dataset.
-* 
+<ul>
+  <li>
+    Created a dataset that contains over 350 questions and answers that relate to mental health.
+  </li>
+  <li>
+    Loaded the base model for the purpose of fine tuning.
+  </li>
+  <li>
+    The model was fine tuned using the above mention dataset, for 30 epochs
+  </li>
+</ul>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ABOUT THE PROJECT -->
+## Built  With
+
+To be completed later..... So please be patient.<br>
+  Thank you
+#### Coming soon
+
+<br>
+## Getting Started
