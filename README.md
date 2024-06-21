@@ -29,6 +29,11 @@ For that the path we journeyed are:
   </li>
 </ul>
 
+### Retrieval-Augmented Generation (RAG)
+RAG, an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process. Used for improving the quality of LLM-generated responses by grounding the model on external sources of knowledge to supplement the LLM’s internal representation of information.
+
+
+
 
 
 <!-- ABOUT THE PROJECT -->
@@ -63,3 +68,4 @@ HealChat bot model link: https://drive.google.com/file/d/1JaNZHf2BzFOJ-I1cL8DcDx
 ## Solutions
 * Increase the size of the dataset
 * Fine tune the model with a large number of epochs
+* By using RAG, we were able to get better responses from the model.
