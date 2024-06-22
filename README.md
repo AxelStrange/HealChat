@@ -69,3 +69,6 @@ HealChat bot model link: https://drive.google.com/file/d/1JaNZHf2BzFOJ-I1cL8DcDx
 * Increase the size of the dataset
 * Fine tune the model with a large number of epochs
 * By using RAG, we were able to get better responses from the model.
+  
+## Deployed Model
+* hugging face - https://huggingface.co/Jeganz/Healchat-mental_health_chatbot
